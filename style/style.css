@@ -1,0 +1,31 @@
+ol#lastList + li {
+    line-height: 40px;
+}
+
+figcaption {
+    text-align: center;
+}
+
+h3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    }
+
+.Image {border-radius: 8px;}
+
+.Image2 {border-radius: 30%;}
+
+.Table {background-color: black;}
+
+div.Biography {background-color:aquamarine ;}
+
+div.Personal_Info {background-color: burlywood;}
+
+div.Tyskam {background-color: lightseagreen;}
+
+div.TIl {background-color: darkslateblue;}
+
+div.bottom {background-color: white;}
+
+div.Header {font-size: large;}
+div.Header {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
